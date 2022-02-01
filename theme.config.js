@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/oliexe/solanaczech',
+  docsRepositoryBase: 'https://github.com/oliexe/solanaczech/blob/master',
   titleSuffix: ' – Nextra',
   logo: (
     <>
