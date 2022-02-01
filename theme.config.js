@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/oliexe/solanaczech',
-  docsRepositoryBase: 'https://github.com/oliexe/solanaczech/blob/master',
+  docsRepositoryBase: 'https://github.com/oliexe/solanaczech/blob/main',
   titleSuffix: ' – Nextra',
   logo: (
     <>
