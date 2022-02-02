@@ -4,7 +4,7 @@ export default {
   titleSuffix: ' – SolanaCzech',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline"> <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" width="100px">SolanaCzech</span>
+      <span className="mr-2 font-extrabold hidden md:inline"> <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" width="100px" />SolanaCzech</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         Česká komunita věnována vývoji pro platformu Solana
       </span>
