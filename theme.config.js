@@ -4,7 +4,7 @@ export default {
   titleSuffix: ' – SolanaCzech',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">SolanaCzech</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         Česká komunita věnována vývoji pro platformu Solana
       </span>
@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
+  footerEditLink: 'úpravte nebo přidejte text na GitHubu',
+  footerText: <>MIT {new Date().getFullYear()} © Ondřej Řeháček & SolanaCzech.</>,
   unstable_faviconGlyph: '👋',
 }
