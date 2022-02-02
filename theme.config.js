@@ -1,12 +1,12 @@
 export default {
   github: 'https://github.com/oliexe/solanaczech',
   docsRepositoryBase: 'https://github.com/oliexe/solanaczech/blob/main',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' – SolanaCzech',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
+        Česká komunita věnována vývoji pro platformu Solana
       </span>
     </>
   ),
